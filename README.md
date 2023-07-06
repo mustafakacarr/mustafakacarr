@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mustafakacarr
-- 👀 I’m interested in back-end technologies such as PHP and Java.
-- 🌱 I’m currently trying to improve myself at Java, Spring.
+- 👀 I’m interested in back-end technologies such as Java.
+- 🌱 I’m currently trying to improve myself in Java, Spring.
+- 🚀 Also, I've developed wide variety of web services with PHP
 - 📫 How to reach me -> my@mustafakacar.com.tr
 
 
